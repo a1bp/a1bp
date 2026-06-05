@@ -113,8 +113,6 @@ guidelines:
 
 <div align="center">
  
-<img src="https://streak-stats.vercel.app?user=a1bp&theme=dark&background=0d0d0d&fire=00ff66&ring=00ff66&currStreakLabel=00ff66&sideLabels=ffffff&dates=888888&hide_border=true&border_radius=10" width="60%"/>
- 
 </div>
 
 ---
