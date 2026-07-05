@@ -14,7 +14,9 @@ This isn't just a README; it's your digital storefront on GitHub.
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-ff5c8d?style=flat-square&logo=visualstudiocode" alt="Focus" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator">
+</p>
 
 <!-- 🚀 BANNER INTRODUCTION -->
 <div align="center">
@@ -51,10 +53,10 @@ This isn't just a README; it's your digital storefront on GitHub.
 
 <br/>
 
-<!-- 🧰 TECH SPECTRUM (Tabs-like design) -->
+<!-- 🧰 TECH SPECTRUM -->
 <div align="center">
-  <h2 style="color: #fff;">🧰 Tech Spectrum</h2>
-  <p style="color: #a0aec0;">Frontend · Backend · Languages & Game Dev</p>
+  <h2>🧰 Tech Spectrum</h2>
+  <p>Frontend · Backend · Languages & Game Dev</p>
   <br/>
   
   <!-- FRONTEND -->
