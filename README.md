@@ -146,6 +146,6 @@ This isn't just a README; it's your digital storefront on GitHub.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,100:00f2fe&height=120&section=footer" width="100%"/>
   <br/>
   <p style="color: #475569; font-size: 14px;">
-    © 2026 ANIK124BD — Crafted with 💜 & caffeine
+    © 2026 ANIK124BD
   </p>
 </div>
