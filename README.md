@@ -24,7 +24,6 @@
 
 ```yaml
 # host_configuration.yml
----
 identity:
   alias: "ANIK124BD"
   primary_role: "React, Node.js, TypeScript & Python Developer | Discord Bot Creator"
